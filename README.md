@@ -1,2 +1,1 @@
-# solidarity-soul-website
-Solidarity Soul Website
+# Solidarity Soul Website
