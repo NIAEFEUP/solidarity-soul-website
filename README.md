@@ -12,4 +12,7 @@
 - Click the MySQL/Admin button. 
   - The phpMyAdmin page might show up in your browser.
   - Create a new DB called 'solidarity-soul'
-  
+- Click the Apache/Admin button
+  - A WordPress form will appear.
+  - Fill the fields according to the images
+  - ![first form](extras/form1.png)
