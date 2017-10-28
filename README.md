@@ -11,14 +11,4 @@
   
 - Start Apache
   - Click the Apache/Admin button
-  - A WordPress form will appear.
-  - ![first form](extras/form1.png)
-  
-  - Fill the info as follows
-    - *Name DB* - solidarity-soul
-    - *Name User* - niaefeup
-    - *Password* - solidarity-soul
-    - *Host* - solidarity-soul.cbhgjyvevukd.eu-west-2.rds.amazonaws.com:3306
-  - Submit the form
-  
-## Credentials -> user: niafeup / password: solidarity-soul
+  - A WordPress form will appear
